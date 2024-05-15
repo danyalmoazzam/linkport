@@ -24,7 +24,7 @@ export const SOCIAL_DATA = {
     },
     {
       title: "Resume",
-      url: "https://cv.danyal.vercel.app",
+      url: "https://danyalcv.vercel.app/",
       icon: ResumeIcon,
     },
     {
