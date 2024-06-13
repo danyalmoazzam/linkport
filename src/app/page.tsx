@@ -43,6 +43,12 @@ export default function HomePage() {
       {data.socials.map((social) => (
         <CardLink key={social.url} {...social} />
       ))}
+          <h3 className='font-semibold mt-8 mb-4 text-xl dark:text-white text-black text-center'>
+        Community Network
+      </h3>
+      {data.communities.map((community) => (
+        <CardLink key={community.url} {...community} />
+      ))}
     </main>
   )
 }
