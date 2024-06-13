@@ -14,7 +14,7 @@ export const SOCIAL_DATA = {
   name: "Danyal Moazzam",
   initials: "DM",
   avatar: "/assets/avatar.jpg",
-  about: `🖥️ Frontend Engineer, 👨‍💻 Full Stack Developer and 🤖 AI Research Enthusiast.
+  about: `🖥️ Frontend Engineer, 👨‍💻 Jr. Full Stack Developer and
   Influenced by 🎴Designs.📍Based in Lahore, Pakistan 🇵🇰`,
   contacts: [
     {
